@@ -2,11 +2,11 @@
 
 ## Task 1. Bifurcation diagram
 
-[Realization](./Tasks/Task_01.ipynb)
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_01.ipynb)
 
 ## Task 2. Julia set
 
-[Realization](./Tasks/Task_02.ipynb)
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_02.ipynb)
 
 ### Result
 
@@ -14,7 +14,7 @@
 
 ## Task 3. Schelling model
 
-[Realization](./Tasks/Task_03.ipynb)
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_03.ipynb)
 
 ### Result
 
