@@ -27,3 +27,17 @@
 ## Task 6. Parallel Spectrogram
 
 [Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_06.ipynb)
+
+## Task 7. Study an integral
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_07.ipynb)
+
+## Task 8. Shifted pictures
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_08.ipynb)
+
+![Gif](./Tasks/images/task_08/shift.gif)
+
+## Task 9. Conway's Game of Life
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_09.ipynb)
