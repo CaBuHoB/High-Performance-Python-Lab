@@ -41,3 +41,5 @@
 ## Task 9. Conway's Game of Life
 
 [Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_09.ipynb)
+
+![Gif](./Tasks/images/task_09/golder_gun.gif)
