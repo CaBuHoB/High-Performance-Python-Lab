@@ -43,3 +43,27 @@
 [Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_09.ipynb)
 
 ![Gif](./Tasks/images/task_09/golder_gun.gif)
+
+## Task 10. Single-Precision A·X Plus Y (SAXPY)
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_10.ipynb)
+
+## Task 11. CuPy-based Bifurcation map
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_11.ipynb)
+
+## Task 12. Histogram CUPY
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_12.ipynb)
+
+## Task 13. Image blur
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_13.ipynb)
+
+## Task 14. Jit Mandelbrot
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_14.ipynb)
+
+## Task 15. Jit Particle
+
+[Realization](https://nbviewer.org/github/CaBuHoB/High-Performance-Python-Lab/blob/main/Tasks/Task_15.ipynb)
